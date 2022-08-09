@@ -1,5 +1,5 @@
 # Graduation-Project
-          Faculty Performance Analysis Unit System (FPAUS) is dedicated to analyze the performance of students, doctors, and teaching assistants to make it easier for the top management to be able to analyze faculty’s performance and extract insights to help making managerial decisions leading to improving the educational process inside the faculty. 
+Faculty Performance Analysis Unit System (FPAUS) is dedicated to analyze the performance of students, doctors, and teaching assistants to make it easier for the top management to be able to analyze faculty’s performance and extract insights to help making managerial decisions leading to improving the educational process inside the faculty. 
 
 •	Tools Used For Project: 
 
